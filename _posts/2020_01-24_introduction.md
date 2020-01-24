@@ -1,8 +1,3 @@
-
-# Title
-> summary
-
-
 # Introduction
 
 With this blog I want to create a running journal of my thoughts, recommendations and work related to the two pursuits I spend most of my time on nowadays, namely programming in Python and practicing Machine Learning. I hope to use this platform first as a means of synthesizing my own learning & tracking my progress and secondly as a way to curate a selection of insights into the aforementioned topics that may help fellow learners and pique the interest of other enthusiasts. It’s with this goal in mind that I’ve named this blog “Human Learning Algorithm”, as a perhaps slightly contrived nod to both the subject matter of the page and the development of my own understanding of this space.
