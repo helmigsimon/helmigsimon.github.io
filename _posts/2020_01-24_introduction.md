@@ -31,7 +31,7 @@ The *Artificial Intelligence* podcast is arguably the best in the world right no
 ### Linear Digressions 
 **Link: https://lineardigressions.com/**
 
-When it comes to podcasts in the ML/AI space, my experience has been that many focus either on the higher-level debates that surround the field, such as the aforementioned *Artificial Intelligence* podcast, or fairly specific applications of the technology in industry and academia. *Linear Digressions* fits a very different niche, with each episode featuring its hosts, Katie (a Data Scientist) and Ben (a Web Developer),  diving into some topic related to Data Science and Machine Learning for about 20 minutes. Some of my favorite episodes include  “Federated Learning”, “Word2Vec”, “Quantile Regression” and “How to Lose at Kaggle”. The exchanges between the hosts are easy-going and enjoyable to listen to, and are great for both topic review and discovery.
+When it comes to podcasts in the ML/AI space, my experience has been that many focus either on the higher-level debates that surround the field, such as the aforementioned *Artificial Intelligence* podcast, or fairly specific applications of the technology in industry and academia. *Linear Digressions* fits a very different niche, with each episode featuring its hosts, Katie (a Data Scientist) and Ben (a Web Developer),  diving into some core topic related to Data Science and Machine Learning for about 20 minutes. Some of my favorite episodes include  “Federated Learning”, “Word2Vec”, “Quantile Regression” and “How to Lose at Kaggle”. The exchanges between the hosts are easy-going and enjoyable to listen to, and are great for both topic review and discovery.
 
 ## Twitter Feeds
 ### Jeremy Howard
